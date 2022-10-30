@@ -5,6 +5,9 @@ def more_hello():
 def more_goodbye():
     return "Good bye"
 
+def how_many():
+    return "How many are you?"
+
 
 # THis is nonsense code
 # var = 1
